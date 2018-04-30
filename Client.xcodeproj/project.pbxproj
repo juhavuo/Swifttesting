@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A12890C2097437200D4D2B7 /* CategoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A12890B2097437200D4D2B7 /* CategoriesViewController.swift */; };
 		AC12625E206D111E005DFEF8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC12625D206D111E005DFEF8 /* AppDelegate.swift */; };
 		AC126260206D111E005DFEF8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC12625F206D111E005DFEF8 /* ViewController.swift */; };
 		AC126263206D111E005DFEF8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC126261206D111E005DFEF8 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6A12890B2097437200D4D2B7 /* CategoriesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesViewController.swift; sourceTree = "<group>"; };
 		AC12625A206D111E005DFEF8 /* Client.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Client.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC12625D206D111E005DFEF8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AC12625F206D111E005DFEF8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				AC12625F206D111E005DFEF8 /* ViewController.swift */,
 				AC126261206D111E005DFEF8 /* Main.storyboard */,
 				AC126264206D111F005DFEF8 /* Assets.xcassets */,
+				6A12890B2097437200D4D2B7 /* CategoriesViewController.swift */,
 				AC126266206D111F005DFEF8 /* LaunchScreen.storyboard */,
 				AC126269206D111F005DFEF8 /* Info.plist */,
 			);
@@ -138,6 +141,7 @@
 			files = (
 				AC126260206D111E005DFEF8 /* ViewController.swift in Sources */,
 				AC12625E206D111E005DFEF8 /* AppDelegate.swift in Sources */,
+				6A12890C2097437200D4D2B7 /* CategoriesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
